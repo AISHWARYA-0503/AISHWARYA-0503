@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **AISHWARYA-0503/AISHWARYA-0503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,12 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
  # Hi, I'm Aishwarya Raut 👋
 
-<p align="center">
-  <img src="https://i.imgur.com/9A3Nf2d.png" width="200" style="border-radius: 50%;" />
-</p>
+ 
 
 ## 🚀 About Me
 
